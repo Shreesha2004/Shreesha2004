@@ -10,7 +10,7 @@ data engineering. Looking for internships in Sweden for summer 2027.
 
 ## Research
 
-- *Hybrid Transformer-Diffusion Model for Multivariate Time Series Forecasting* (IEEE)
+- [*Adaptive-MTDI: High-Throughput Multivariate Time Series Forecasting*](https://doi.org/10.1109/RMKMATE69073.2026.11519015) (IEEE, 2026)
 - *Community Detection in Financial Networks*, a GNN approach to anti-money laundering (Scopus)
 
 ## Experience
