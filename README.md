@@ -11,7 +11,7 @@ data engineering. Looking for internships in Sweden for summer 2027.
 ## Research
 
 - [*Adaptive-MTDI: High-Throughput Multivariate Time Series Forecasting*](https://doi.org/10.1109/RMKMATE69073.2026.11519015) (IEEE, 2026)
-- *Community Detection in Financial Networks*, a GNN approach to anti-money laundering (Scopus)
+- [*Community Detection in Financial Networks for AML Using GNNs*](https://doi.org/10.4108/eai.28-4-2025.2358093) (EAI ICITSM, 2025)
 
 ## Experience
 
