@@ -5,6 +5,9 @@ data engineering. Looking for internships in Sweden for summer 2027.
 
 ## Projects
 
+- [Elmorgon](https://github.com/Shreesha2004/elmorgon): next-day electricity price forecasts for
+  Sweden with LightGBM, dbt, DuckDB and Dagster, valued in SEK by scheduling an EV and a home
+  battery ([live dashboard](https://shreesha2004.github.io/elmorgon/))
 - [Liftbook](https://github.com/Shreesha2004/liftbook): workout analytics in PostgreSQL, with
   FastAPI, Docker and CI
 
@@ -20,7 +23,8 @@ data engineering. Looking for internships in Sweden for summer 2027.
 
 ## Tools
 
-Python, SQL, PyTorch, scikit-learn, pandas, PostgreSQL, FastAPI, Docker, LangChain, Power BI
+Python, SQL, PyTorch, scikit-learn, LightGBM, pandas, dbt, DuckDB, Dagster, PostgreSQL, FastAPI,
+Docker, LangChain, Power BI
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/shreesha-vamanjoor-balakrishnan-2b1221232/)
 or at sha94377@gmail.com.
